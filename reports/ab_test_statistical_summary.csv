@@ -1,0 +1,13 @@
+Metric,Control (A),Treatment (B)
+Sample Size,145274,145310
+Conversions,17489,17264
+Conversion Rate,12.0386%,11.8808%
+Absolute Lift,-,-0.1578%
+Relative Lift,-,-1.31%
+Z-Statistic,-,-1.3109
+p-value,-,0.1899
+95% CI Lower,-,-0.3938%
+95% CI Upper,-,+0.0781%
+Statistically Significant?,-,False
+Recommendation,-,DO NOT LAUNCH NEW PAGE: No statistically significant lift. Retain Control.
+Next Steps,-,"Keep the current version (Control). Consider testing for a longer period, trying a different variant, or increasing sample size."
