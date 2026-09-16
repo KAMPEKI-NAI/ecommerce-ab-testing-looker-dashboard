@@ -1,0 +1,2 @@
+control_trials,treatment_trials,control_conversions,treatment_conversions,control_rate_pct,treatment_rate_pct,absolute_lift_pct,relative_lift_pct,z_statistic,p_value,ci_lower_pct,ci_upper_pct,alpha,statistically_significant,decision
+145274,145310,17489,17264,12.0386,11.8808,-0.1578,-1.311,-1.3109,0.1899,-0.3938,0.0781,0.05,False,FAIL TO REJECT NULL - DO NOT LAUNCH
