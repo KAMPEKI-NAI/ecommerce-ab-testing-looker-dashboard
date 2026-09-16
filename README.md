@@ -107,3 +107,6 @@ ecommerce-ab-testing-looker/
 - Re-run the test for a longer duration or with a larger minimum detectable effect threshold
 - Test a different treatment variant
 - Segment results by user cohort (e.g., device type, traffic source) to check for heterogeneous treatment effects masked in the aggregate result
+
+## Data Studio Dashboard LInk
+A/B Testing & Statistical Decision Framework: Landing Page Conversion Analysis - https://datastudio.google.com/s/t4rBG-xz0sA
